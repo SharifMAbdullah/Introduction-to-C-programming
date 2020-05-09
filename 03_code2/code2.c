@@ -1,7 +1,7 @@
-
+#include<stdio.h>
 int printTriangle(int size) {
   //start with starCount being 0
-  starCount=0;
+  int  starCount=0,i,j;
   //count from 0 (inclusive) to size (exclusive), for each number i that you count
   for(i=0;i<size;i++){
      //count from 0 (inclusive) to i (inclusive), for each number j that you count
@@ -19,7 +19,6 @@ int printTriangle(int size) {
   //your answer is starCount
   return starCount;
 }
-
 
 int main(void) {
   int numStars;
