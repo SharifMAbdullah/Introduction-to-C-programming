@@ -9,7 +9,7 @@
 int isInRange(int coord, int offset, int size) {
   // if coord is in range, return 1
   // else, return 0
-  if (coord >= offset && coord < offset+size) {return 1; }
+  if (coord >= offset && coord < offset+size) {return 1 }
   else  return 0;
 }
 
@@ -64,3 +64,4 @@ void squares(int size1, int x_offset, int y_offset, int size2) {
     printf("\n");
   }
 }
+
