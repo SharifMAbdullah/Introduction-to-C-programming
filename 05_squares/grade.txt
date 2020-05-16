@@ -1,4 +1,4 @@
-Grading at Sat May 16 08:37:50 UTC 2020
+Grading at Sat May 16 08:48:02 UTC 2020
 Trying to compile your code and link with squares_test.o
 Testing ./squares 1 0 0 1
 PASSED
