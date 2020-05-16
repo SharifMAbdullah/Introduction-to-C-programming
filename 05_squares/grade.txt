@@ -1,4 +1,4 @@
-Grading at Tue May 12 08:08:18 UTC 2020
+Grading at Sat May 16 08:37:50 UTC 2020
 Trying to compile your code and link with squares_test.o
 Testing ./squares 1 0 0 1
 PASSED
@@ -13,29 +13,29 @@ Testing ./squares 1 0 1 1
 PASSED
  - Correct
 Testing ./squares 1 0 1 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 0 1 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 0 3 1
 PASSED
  - Correct
 Testing ./squares 1 0 3 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 0 3 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 0 8 1
 PASSED
  - Correct
 Testing ./squares 1 0 8 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 0 8 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 4 0 1
 PASSED
  - Correct
@@ -46,32 +46,32 @@ Testing ./squares 1 4 0 9
 PASSED
  - Correct
 Testing ./squares 1 4 1 1
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 4 1 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 4 1 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 4 3 1
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 4 3 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 4 3 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 4 8 1
 PASSED
  - Correct
 Testing ./squares 1 4 8 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 4 8 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 7 0 1
 PASSED
  - Correct
@@ -82,32 +82,32 @@ Testing ./squares 1 7 0 9
 PASSED
  - Correct
 Testing ./squares 1 7 1 1
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 7 1 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 7 1 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 7 3 1
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 7 3 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 7 3 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 7 8 1
 PASSED
  - Correct
 Testing ./squares 1 7 8 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 1 7 8 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 4 0 0 1
 Your program produced the wrong output!
  - Incorrect
@@ -121,29 +121,29 @@ Testing ./squares 4 0 1 1
 Your program produced the wrong output!
  - Incorrect
 Testing ./squares 4 0 1 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 4 0 1 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 4 0 3 1
 PASSED
  - Correct
 Testing ./squares 4 0 3 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 4 0 3 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 4 0 8 1
 PASSED
  - Correct
 Testing ./squares 4 0 8 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 4 0 8 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 4 4 0 1
 Your program produced the wrong output!
  - Incorrect
@@ -157,29 +157,29 @@ Testing ./squares 4 4 1 1
 Your program produced the wrong output!
  - Incorrect
 Testing ./squares 4 4 1 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 4 4 1 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 4 4 3 1
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 4 4 3 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 4 4 3 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 4 4 8 1
 PASSED
  - Correct
 Testing ./squares 4 4 8 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 4 4 8 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 4 7 0 1
 Your program produced the wrong output!
  - Incorrect
@@ -193,29 +193,29 @@ Testing ./squares 4 7 1 1
 Your program produced the wrong output!
  - Incorrect
 Testing ./squares 4 7 1 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 4 7 1 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 4 7 3 1
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 4 7 3 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 4 7 3 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 4 7 8 1
 PASSED
  - Correct
 Testing ./squares 4 7 8 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 4 7 8 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 8 0 0 1
 Your program produced the wrong output!
  - Incorrect
@@ -232,26 +232,26 @@ Testing ./squares 8 0 1 5
 Your program produced the wrong output!
  - Incorrect
 Testing ./squares 8 0 1 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 8 0 3 1
 Your program produced the wrong output!
  - Incorrect
 Testing ./squares 8 0 3 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 8 0 3 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 8 0 8 1
 PASSED
  - Correct
 Testing ./squares 8 0 8 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 8 0 8 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 8 4 0 1
 Your program produced the wrong output!
  - Incorrect
@@ -268,26 +268,26 @@ Testing ./squares 8 4 1 5
 Your program produced the wrong output!
  - Incorrect
 Testing ./squares 8 4 1 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 8 4 3 1
 Your program produced the wrong output!
  - Incorrect
 Testing ./squares 8 4 3 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 8 4 3 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 8 4 8 1
 PASSED
  - Correct
 Testing ./squares 8 4 8 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 8 4 8 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 8 7 0 1
 Your program produced the wrong output!
  - Incorrect
@@ -304,26 +304,26 @@ Testing ./squares 8 7 1 5
 Your program produced the wrong output!
  - Incorrect
 Testing ./squares 8 7 1 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 8 7 3 1
 Your program produced the wrong output!
  - Incorrect
 Testing ./squares 8 7 3 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 8 7 3 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 8 7 8 1
 PASSED
  - Correct
 Testing ./squares 8 7 8 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 8 7 8 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 11 0 0 1
 Your program produced the wrong output!
  - Incorrect
@@ -349,17 +349,17 @@ Testing ./squares 11 0 3 5
 Your program produced the wrong output!
  - Incorrect
 Testing ./squares 11 0 3 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 11 0 8 1
 Your program produced the wrong output!
  - Incorrect
 Testing ./squares 11 0 8 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 11 0 8 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 11 4 0 1
 Your program produced the wrong output!
  - Incorrect
@@ -385,17 +385,17 @@ Testing ./squares 11 4 3 5
 Your program produced the wrong output!
  - Incorrect
 Testing ./squares 11 4 3 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 11 4 8 1
 Your program produced the wrong output!
  - Incorrect
 Testing ./squares 11 4 8 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 11 4 8 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 11 7 0 1
 Your program produced the wrong output!
  - Incorrect
@@ -421,17 +421,17 @@ Testing ./squares 11 7 3 5
 Your program produced the wrong output!
  - Incorrect
 Testing ./squares 11 7 3 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 11 7 8 1
 Your program produced the wrong output!
  - Incorrect
 Testing ./squares 11 7 8 5
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 Testing ./squares 11 7 8 9
-Your program produced the wrong output!
- - Incorrect
+PASSED
+ - Correct
 You need to fix the incorrect cases above and try again
 
 Overall Grade: FAILED
