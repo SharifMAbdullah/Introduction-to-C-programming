@@ -1,0 +1,26 @@
+Grading at Sun Dec 20 10:01:01 UTC 2020
+Attempting to compile retirement.c
+retirement.c: In function ‘calculate’:
+retirement.c:17:24: error: left-hand operand of comma expression has no effect [-Werror=unused-value]
+   for(i=0;i<info.months,i++)
+                        ^
+retirement.c:17:28: error: expected ‘;’ before ‘)’ token
+   for(i=0;i<info.months,i++)
+                            ^
+retirement.c:19:79: error: ‘res’ undeclared (first use in this function)
+       printf("Age %3d month %2d  you have $%.2lf\n",startAge/12, startAge%12, res);
+                                                                               ^
+retirement.c:19:79: note: each undeclared identifier is reported only once for each function it appears in
+retirement.c: In function ‘retirement’:
+retirement.c:28:39: error: ‘starAge’ undeclared (first use in this function)
+   worked= calculate(initial, working, starAge);
+                                       ^
+retirement.c: In function ‘main’:
+retirement.c:36:1: error: expected identifier or ‘(’ before ‘}’ token
+ }
+ ^
+retirement.c:36:1: error: expected declaration or statement at end of input
+cc1: all warnings being treated as errors
+The code did not compile!
+
+Overall Grade: F
