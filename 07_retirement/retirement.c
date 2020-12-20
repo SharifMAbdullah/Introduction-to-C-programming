@@ -39,8 +39,7 @@ int main()
   working.rate_of_return= 0.045;
 
 
-  ret
-    ire_info retired;
+  retire_info retired;
   
   retired.months= 384;
   retired.contribution= -4000;
