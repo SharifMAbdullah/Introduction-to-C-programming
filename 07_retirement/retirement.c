@@ -16,8 +16,8 @@ double calculate(double initial, retire_info info, int startAge)
   final= initial;
   for(i=0;i<info.months;i++)
     {
-      printf("Age %3d month %2d  you have $%.2lf\n",startAge/12, startAge%12, final);
-      final += final*(info.rate_of_return/12+info.contribution);
+      printf("Age %3d month %2d you have $%.2lf\n",startAge/12, startAge%12, final);
+      final += final*(info.rate_of_return/12)+info.contribution;
       startAge++;
     }
   return final;
@@ -37,6 +37,7 @@ int main()
   working.months= 489;
   working.contribution=1000;
   working.rate_of_return= 0.045;
+
 
   ret
     ire_info retired;
