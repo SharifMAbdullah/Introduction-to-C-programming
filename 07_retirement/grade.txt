@@ -1,16 +1,16 @@
-Grading at Sun Dec 20 10:16:57 UTC 2020
+Grading at Sun Dec 20 10:25:05 UTC 2020
 Attempting to compile retirement.c
 retirement.c: In function ‘main’:
-retirement.c:41:3: error: unknown type name ‘ret’
+retirement.c:42:3: error: unknown type name ‘ret’
    ret
    ^
-retirement.c:42:14: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘retired’
+retirement.c:43:14: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘retired’
      ire_info retired;
               ^
-retirement.c:44:3: error: ‘retired’ undeclared (first use in this function)
+retirement.c:45:3: error: ‘retired’ undeclared (first use in this function)
    retired.months= 384;
    ^
-retirement.c:44:3: note: each undeclared identifier is reported only once for each function it appears in
+retirement.c:45:3: note: each undeclared identifier is reported only once for each function it appears in
 The code did not compile!
 
 Overall Grade: F
