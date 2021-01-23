@@ -34,8 +34,8 @@ char value_letter(card_t c) {
 	{
 	case 10: return '0';
 	case 11: return 'J';
-	case 12: return 'K';
-	case 13: return 'Q';
+	case 12: return 'Q';
+	case 13: return 'K';
 	case 14: return 'A';
 	}
     }
