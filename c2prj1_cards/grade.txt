@@ -1,0 +1,16 @@
+Grading at Sat Jan 23 06:33:24 UTC 2021
+Compiling cards.c
+Testing card_from_letters
+Passed
+Testing value_letter and suit_letter
+For Ks, you gave value = Q, suit = s
+For Kh, you gave value = Q, suit = h
+For Kd, you gave value = Q, suit = d
+For Kc, you gave value = Q, suit = c
+For Qs, you gave value = K, suit = s
+For Qh, you gave value = K, suit = h
+For Qd, you gave value = K, suit = d
+For Qc, you gave value = K, suit = c
+Failed
+
+Overall Grade: FAILED
